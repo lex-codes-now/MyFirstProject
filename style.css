@@ -1,0 +1,53 @@
+.navbar li{
+    display: inline;
+    margin-left: 20px;
+}
+
+.bg{
+    background-color: black;
+    color: white;
+    padding: 15px;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.navbar li:hover{
+    color: bisque;
+    cursor: pointer;
+    border: 1px solid white;
+    padding: 10px;
+    font-family: cursive;
+}
+
+img:hover{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.imagebox{
+    margin-top: 20px;
+   background-color: black;
+   width: 300px;
+   height: 300px;
+}
+
+.stay{
+    color: green;
+}
+
+.run p{
+    color: red;
+}
+
+.run .pops{
+    color: green;
+}
+
+.mom{
+    color: yellow;
+}
+
+.run .mom{
+    color: purple;
+}
